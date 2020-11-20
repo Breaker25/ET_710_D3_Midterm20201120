@@ -17,6 +17,8 @@ import { ResumeWorkExperienceComponent } from './resume-work-experience/resume-w
 import { CartService } from './cart.service';
 import { CartComponent } from './cart/cart.component';
 import { ShippingComponent } from './shipping/shipping.component';
+import { IllustrationsComponent } from './illustrations/illustrations.component';
+import { GraphicDesignComponent } from './graphic-design/graphic-design.component';
 
 @NgModule({
   imports: [
@@ -43,7 +45,9 @@ import { ShippingComponent } from './shipping/shipping.component';
     ResumeProfileComponent,
     ResumeWorkExperienceComponent,
     CartComponent,
-    ShippingComponent
+    ShippingComponent,
+    IllustrationsComponent,
+    GraphicDesignComponent
   ],
   bootstrap: [ AppComponent ],
   providers: [CartService]
