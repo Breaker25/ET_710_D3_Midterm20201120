@@ -80,7 +80,7 @@ export const r1 = {
 		"level": "50%"
 	},
   		{
-		"skill": "Angulare",
+		"skill": "Angular",
 		"level": "25%"
 	}
 
