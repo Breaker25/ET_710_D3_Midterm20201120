@@ -78,14 +78,45 @@ export const r1 = {
 		{
 		"skill": "Media",
 		"level": "50%"
+	},
+  		{
+		"skill": "Angulare",
+		"level": "25%"
 	}
+
 	],
 
   },
   
   
-  "workExperience": [],
-  "education": []
+  "workExperience": [
+
+		{
+		"Work": "Cashier",
+		"level": "75%"
+	},
+
+  		{
+		"Work": "Airport Worker",
+		"level": "70%"
+	}
+
+  ],
+  "education": [
+
+
+		{
+		"School": "Humanities and the Arts HS",
+		"level": " 100%"
+	},
+
+  		{
+		"School": "Queens borough community college",
+		"level": "95%"
+	}
+
+
+  ]
 }
 
 
